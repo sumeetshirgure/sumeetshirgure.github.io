@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Welcome to my blog!"
-date:   2023-08-19 10:19:31 -0700
+title:  "I created my own blog!"
+date:   2023-08-19 21:14:20 -0700
 categories: jekyll update
 ---
-This blog is just a collection of thoughts on my past projects, and future endeavours, that I would like to share with the world.
+This is just a celebratory post. I created my own blog!
+I'll probably be adding more content soon.

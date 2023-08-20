@@ -1,18 +1,24 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+![Portrait](/assets/images/pfp.jpg)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I'm a [USC](https://www.usc.edu) alumnus where I got my Master's in Science with honors.
+I'll let you guess my major. However I was also quite involved with electrical engineering
+and quantum computing.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Before that I briefly worked remotely as a SWE at Google India.
 
+I got my undergraduate degree from [IIT Kharagpur](https://www.iitkgp.ac.in).
+Most notably I participated in ICPC style programming contests.
+My teammates and I even ended up representing India at the [2019 World Finals](https://icpc2019.up.pt)
+Here's my [Codeforces](https://codeforces.com/profile/Sumeet.Shirgure) profile.
 
-[jekyll-organization]: https://github.com/jekyll
+I'm interested in all sorts of topics ranging from theoretical computer science,
+artificial intelligence, natural language processing, to electrical engineering,
+quantum computing, physics, to even pure and applied math.
+
+Linked are my [LinkedIn](https://linkedin.com/in/sumeetshirgure) and [Instagram](https://www.instagram.com/sumeetshirgure/) and [Github](https://github.com/sumeetshirgure) pages that you can stalk me on.
