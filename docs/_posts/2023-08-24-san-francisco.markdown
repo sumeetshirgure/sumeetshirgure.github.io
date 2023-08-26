@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "San Fransisco"
+title: "San Francisco"
 date: 2023-08-24 14:00:00 -0700
 categories: jekyll update
 ---
 
-After staying in the sunny, not-so-gloomy, Seattle for the entirety of August I'm going to San Fransisco for a change.
+After staying in the sunny, not-so-gloomy, Seattle for the entirety of August I'm going to San Francisco for a change.
 I'll be interviewing with [chalk.ai](https://chalk.ai) at their offices!
 
 In other news, lately I've been revisiting my
