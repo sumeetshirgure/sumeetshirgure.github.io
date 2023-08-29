@@ -5,6 +5,6 @@
 layout: home
 ---
 
-This blog is just a collection of thoughts on my past projects, and future endeavours, that I would like to share with the world.
+This blog is just a collection of thoughts on my past projects, and future endeavors, that I'd like to share.
 
-Stay tuned for random shit that my brain may emit.
+Stay tuned for random thoughts that my brain comes up with.

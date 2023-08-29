@@ -18,7 +18,9 @@ My teammates and I even ended up representing India at the [2019 World Finals](h
 Here's my [Codeforces](https://codeforces.com/profile/Sumeet.Shirgure) profile.
 
 I'm interested in all sorts of topics ranging from theoretical computer science,
-artificial intelligence, natural language processing, to electrical engineering,
-quantum computing, physics, to even pure and applied math.
+artificial intelligence, natural language processing, to quantum computing, physics,
+and even pure and applied math.
+
+This blog is named after Scott Aaronson's [Shtetl optimized](https://scottaaronson.blog/).
 
 Linked are my [LinkedIn](https://linkedin.com/in/sumeetshirgure) and [Instagram](https://www.instagram.com/sumeetshirgure/) and [Github](https://github.com/sumeetshirgure) pages that you can stalk me on.
