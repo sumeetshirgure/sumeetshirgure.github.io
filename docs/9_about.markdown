@@ -10,7 +10,7 @@ I'm a [USC](https://www.usc.edu) alumnus where I got my Master's in Science with
 I'll let you guess my major. However I was also quite involved with electrical engineering
 and quantum computing.
 
-Before that I briefly worked remotely as a SWE at Google India.
+Before that I briefly worked remotely as a software engineer at Google's Bangalore offices.
 
 I got my undergraduate degree from [IIT Kharagpur](https://www.iitkgp.ac.in).
 Most notably I participated in ICPC style programming contests.
@@ -24,3 +24,5 @@ and even pure and applied math.
 This blog is named after Scott Aaronson's [Shtetl optimized](https://scottaaronson.blog/).
 
 Linked are my [LinkedIn](https://linkedin.com/in/sumeetshirgure) and [Instagram](https://www.instagram.com/sumeetshirgure/) and [Github](https://github.com/sumeetshirgure) pages that you can stalk me on.
+
+Here's my [CV](/assets/pdfs/cv/Sumeet_Shirgure_CV.pdf).
