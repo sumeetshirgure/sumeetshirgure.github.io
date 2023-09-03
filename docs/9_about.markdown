@@ -25,4 +25,4 @@ This blog is named after Scott Aaronson's [Shtetl optimized](https://scottaarons
 
 Linked are my [LinkedIn](https://linkedin.com/in/sumeetshirgure) and [Instagram](https://www.instagram.com/sumeetshirgure/) and [Github](https://github.com/sumeetshirgure) pages that you can stalk me on.
 
-Here's my [CV](/assets/pdfs/cv/Sumeet_Shirgure_CV.pdf).
+Here's my [CV](/assets/pdfs/cv/Sumeet_Shirgure_CV.pdf). I use [Arch](https://archlinux.org/) by the way.

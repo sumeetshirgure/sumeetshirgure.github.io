@@ -4,7 +4,7 @@ title: Writings
 permalink: /writings/
 ---
 
-This page links some of my writing samples, and future publications hopefully.
+This page links some of my writings, presentations and projects.
 
 Also a little bit of advertisement, for making quick PDFs I prefer
 [TexMacs](https://en.wikipedia.org/wiki/GNU_TeXmacs) over [LaTeX](https://en.wikipedia.org/wiki/LaTeX).
@@ -12,10 +12,21 @@ Also a little bit of advertisement, for making quick PDFs I prefer
 ## Term projects
 
 # Quantum computing and quantum information
-- Scalable decoders for quantum surface codes [[Link](/assets/pdfs/projects/ee_599_project.pdf)]
-- Solving the subset sum problem on a quantum computer [[Link](/assets/pdfs/projects/ee_520_project.pdf)]
-- A gentle introduction to quantum algorithms for combinatorial and optimization problems [[Link](/assets/pdfs/projects/cs_675_project.pdf)]
-- The hidden subgroup problem and the quantum fourier transform [[Link](/assets/pdfs/projects/cs_599_project.pdf)]
+- Scalable decoders for quantum surface codes [[pdf](/assets/pdfs/projects/ee_599_project.pdf)]
+- Solving the subset sum problem on a quantum computer
+[[pdf](/assets/pdfs/projects/ee_520_project.pdf)]
+[[ppt1](/assets/pdfs/presentations/ee_520.pdf)]
+[[ppt2](/assets/pdfs/presentations/qchack_2022.pdf)]
+- A gentle introduction to quantum algorithms for combinatorial and optimization problems
+[[pdf](/assets/pdfs/projects/cs_675_project.pdf)]
+- The hidden subgroup problem and the quantum fourier transform
+[[pdf](/assets/pdfs/projects/cs_599_project.pdf)]
 
 # Geometry
 - L-shaped 2D knapsack implementation [[Link](/assets/pdfs/projects/l2dk.pdf)]
+
+# Deep learning and AI
+- Interpretability of multi-modal neural models trained with contrastive self-supervised learning
+[[Link](/assets/pdfs/projects/cs_566_paper.pdf)]
+- Emergent structures in transformer models trained by self-supervised methods
+[[ppt](/assets/pdfs/presentations/cs_566.pdf)]
