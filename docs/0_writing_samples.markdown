@@ -22,11 +22,16 @@ Also a little bit of advertisement, for making quick PDFs I prefer
 - The hidden subgroup problem and the quantum fourier transform
 [[pdf](/assets/pdfs/projects/cs_599_project.pdf)]
 
-# Geometry
-- L-shaped 2D knapsack implementation [[Link](/assets/pdfs/projects/l2dk.pdf)]
+# Engineering
+- Updates on the superconductor electronics logic synthesizer tool at
+[SPORT Lab](https://sportlab.usc.edu/)
+[[ppt](/assets/pdfs/presentations/qsyn.pdf)]
 
-# Deep learning and AI
+# Geometry
+- L-shaped 2D knapsack implementation [[pdf](/assets/pdfs/projects/l2dk.pdf)]
+
+# AI/ML
 - Interpretability of multi-modal neural models trained with contrastive self-supervised learning
-[[Link](/assets/pdfs/projects/cs_566_paper.pdf)]
+[[pdf](/assets/pdfs/projects/cs_566_paper.pdf)]
 - Emergent structures in transformer models trained by self-supervised methods
 [[ppt](/assets/pdfs/presentations/cs_566.pdf)]
