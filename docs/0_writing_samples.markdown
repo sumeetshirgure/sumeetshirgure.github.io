@@ -35,3 +35,5 @@ Also a little bit of advertisement, for making quick PDFs I prefer
 [[pdf](/assets/pdfs/projects/cs_566_paper.pdf)]
 - Emergent structures in transformer models trained by self-supervised methods
 [[ppt](/assets/pdfs/presentations/cs_566.pdf)]
+- Foundation models - a 2022, 2023 review
+[[pdf](/assets/pdfs/projects/foundation_models_review.pdf)]
