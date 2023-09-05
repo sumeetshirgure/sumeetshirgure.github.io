@@ -9,9 +9,9 @@ permalink: /writings/
 A bit of advertisement: for making quick PDFs I prefer
 [TeXmacs](https://en.wikipedia.org/wiki/GNU_TeXmacs) over [LaTeX](https://en.wikipedia.org/wiki/LaTeX).
 
-## Term projects
+# Term projects
 
-# Quantum computing and quantum information
+## Quantum computing and quantum information
 - Scalable decoders for quantum surface codes [[pdf](/assets/pdfs/projects/ee_599_project.pdf)]
 - Solving the subset sum problem on a quantum computer
 [[pdf](/assets/pdfs/projects/ee_520_project.pdf)]
@@ -22,15 +22,15 @@ A bit of advertisement: for making quick PDFs I prefer
 - The hidden subgroup problem and the quantum fourier transform
 [[pdf](/assets/pdfs/projects/cs_599_project.pdf)]
 
-# Engineering
+## Engineering
 - Updates on the superconductor electronics logic synthesizer tool at
 [SPORT Lab](https://sportlab.usc.edu/)
 [[ppt](/assets/pdfs/presentations/qsyn.pdf)]
 
-# Geometry
+## Geometry
 - L-shaped 2D knapsack implementation [[pdf](/assets/pdfs/projects/l2dk.pdf)]
 
-# AI/ML
+## AI/ML
 - Interpretability of multi-modal neural models trained with contrastive self-supervised learning
 [[pdf](/assets/pdfs/projects/cs_566_paper.pdf)]
 - Emergent structures in transformer models trained by self-supervised methods
