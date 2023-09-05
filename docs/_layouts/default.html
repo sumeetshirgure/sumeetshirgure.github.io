@@ -17,19 +17,25 @@
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
-        <h1 class="post-title">{{ page.title | escape }}</h1>
-        <p>{{ page.subtitle | escape }}</p>
+        {% if site.logo %}
+          <img src="{{site.logo | relative_url}}" alt="Logo" />
+        {% endif %}
+
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
+
+        <p class="view"> <a href="{{ "/" | absolute_url }}writings">My writings</a></p>
+        <p class="view"> <a href="{{ "/" | absolute_url }}about">About me</a></p>
+
 
       </header>
       <section>
-      <div>
-        <header class="post-header">
-        </header>
-      </div>
 
       {{ content }}
 
       </section>
+      <footer>
+        <p><small>Hosted on GitHub Pages</p>
+      </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
