@@ -14,7 +14,8 @@ Before that I briefly worked remotely as a software engineer at Google's Bangalo
 
 I got my undergraduate degree from [IIT Kharagpur](https://www.iitkgp.ac.in).
 Most notably I participated in ICPC style programming contests.
-My teammates and I even ended up representing India at the [2019 World Finals](https://icpc2019.up.pt)
+My teammates and I even ended up representing India at the [2019 World Finals](https://icpc2019.up.pt).
+
 Here's my [Codeforces](https://codeforces.com/profile/Sumeet.Shirgure) profile.
 
 I'm interested in all sorts of topics ranging from theoretical computer science,
@@ -25,4 +26,6 @@ This blog is named after Scott Aaronson's [Shtetl optimized](https://scottaarons
 
 Linked are my [LinkedIn](https://linkedin.com/in/sumeetshirgure) and [Github](https://github.com/sumeetshirgure) pages you can stalk me on.
 
-Here's my [CV](/assets/pdfs/cv/Sumeet_Shirgure_CV.pdf). I use [Arch](https://archlinux.org/) by the way.
+Here's my [CV](/assets/pdfs/cv/Sumeet_Shirgure_CV.pdf).
+
+I use [Arch](https://archlinux.org/) by the way.
