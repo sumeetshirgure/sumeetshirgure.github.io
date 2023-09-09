@@ -28,15 +28,17 @@ an image that's supposed to be forgotten. In other words, the output entropy of 
 distribution is high compared to the average entropy of the distribution for a randomly
 selected data point.
 
-To that effect, one can define a regularizer which penalizes the KL-divergence of the output
-distribution with respect to the uniform distribution.
-Minimizing which just comes out to be the same as maximizing the output's entropy.
+**But it comes with a catch**.
 
 Assuming that in the real world, there is no "unseen data", and everything is part of either
 the "retain" set or the "forget" set, one can simply construct a classifier (just like the one in the starter kit)
 to infer if the data point is part of the retain set just by looking at the average output entropy.
 I call this technique the "entropy attack" (the starter kit classifier can be thought of as a specialization of
 the entropy attack in that it only looks at the negative log likelihood of the correct class; i.e cross-entropy)
+
+To mitigate that effect, one can define a regularizer which penalizes the KL-divergence of the output
+distribution with respect to the uniform distribution.
+Minimizing which just comes out to be the same as maximizing the output's entropy.
 
 I found that such regularization does indeed protect against the entropy attack between "retain" and "forget" sets.
 Also also, simply adding regularization and not fine-tuning boosts accuracy on the "forget" set, which is uncanny.
