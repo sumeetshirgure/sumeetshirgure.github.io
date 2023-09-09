@@ -13,4 +13,4 @@ I presented this work [[ppt](/assets/pdfs/presentations/qchack_2022.pdf)]
 [[pdf](/assets/pdfs/projects/ee_520_project.pdf)]
 to Microsoft's Azure Quantum team.
 
-Thank you so much Mariia and Microsoft!
+Thank you so much, [quantum coalition](https://www.quantumcoalition.io/), Mariia and Microsoft!
