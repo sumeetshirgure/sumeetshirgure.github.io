@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Remembering to forget"
-date: 2023-09-08 14:00:00 -0700
+date: 2023-09-09 09:00:00 -0700
 categories: jekyll update
 ---
 
@@ -38,8 +38,9 @@ to infer if the data point is part of the retain set just by looking at the aver
 I call this technique the "entropy attack" (the starter kit classifier can be thought of as a specialization of
 the entropy attack in that it only looks at the negative log likelihood of the correct class; i.e cross-entropy)
 
-I found that such regularization does indeed protect against the entropy attack between "retain" and "forget" sets,
-even though it might not do so well against the standard cross entropy MIA between "forget" and "unseen" sets.
-Also also, simply adding regularization boosts accuracy on the forget set, which is uncanny.
+I found that such regularization does indeed protect against the entropy attack between "retain" and "forget" sets.
+Also also, simply adding regularization and not fine-tuning boosts accuracy on the "forget" set, which is uncanny.
 
-[Here](https://gist.github.com/sumeetshirgure/0ee1e5a80a070a4677cc2a96441edb91) is a link to a Github Gist with all of the work.
+Here is a Github Gist with all of the work.
+
+<script src="https://gist.github.com/sumeetshirgure/6543c8752a103f02c3b8b19e251e4436.js"></script>
