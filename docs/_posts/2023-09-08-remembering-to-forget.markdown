@@ -46,7 +46,7 @@ the deep neural network model weights.
 
 The idea is to penalize the KL-divergence between the output distribution and the uniform distribution.
 
-$$ D_{KL}(P||\mathcal{U}) = \sum_{i}{p_i(log p_i - log(1/N))} = H(P) + log(N) $$
+$$ D_{KL}(P||\mathcal{U}) = \sum_{i}{p_i(log p_i - log(1/N))} = -H(P) + log(N) $$
 
 Note that this is the same as a regularizing term that penalizes
 small output entropy. Using the KL-divergence as a regularization term is not a new concept, and is
