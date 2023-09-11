@@ -24,7 +24,7 @@ is something of a contradiction. Intuitively it only results in the burden of me
 to something other than the model.
 
 Deep neural networks tend to have lower values of the cross-entropy loss, which they were trained to
-minimize, for inputs from the training set [Shokri et al. (2017)](https://arxiv.org/abs/1610.05820).
+minimize, for inputs from the training set - [Shokri et al. (2017)](https://arxiv.org/abs/1610.05820).
 
 
 What I observed is that the average loss is also lower for samples from the ”retain” set compared
@@ -50,12 +50,12 @@ $$ D_{KL}(P||\mathcal{U}) = \sum_{i}{p_i(log p_i - log(1/N))} = -H(P) + log(N) $
 
 Note that this is the same as a regularizing term that penalizes
 small output entropy. Using the KL-divergence as a regularization term is not a new concept, and is
-widely studied in variational autoencoding. [Kingma & Welling (2022)](https://arxiv.org/abs/1312.6114).
+widely studied in variational autoencoding - [Kingma & Welling (2022)](https://arxiv.org/abs/1312.6114).
 In this context however, the regularization of entropy acts as a shield against the entropy attack.
 
-The objective function is therefore :
+The objective function is :
 
-$$ L = \gamma \{\sum_{(r, l) \in R}{H(P(r), l)}\} - \alpha \{\sum_{(f, l)\in F}{H(P(f))}\} $$
+$$ L = \gamma \{\sum_{(r, l) \in R}{H(P(r), l)}\} - \alpha \{\sum_{(f, l)\in R \cup F}{H(P(f))}\} $$
 
 where R and F are retain and forget sets respectively.
 

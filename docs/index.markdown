@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+list_title: Blog posts
 ---
 
 This blog is just a collection of thoughts on my past projects, and future endeavors, that I'd like to share.

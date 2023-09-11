@@ -7,7 +7,7 @@ permalink: /writings/
 This page links some of my writings, presentations and projects.
 
 Also a little bit of advertisement, for making quick PDFs I prefer
-[TexMacs](https://en.wikipedia.org/wiki/GNU_TeXmacs) over [LaTeX](https://en.wikipedia.org/wiki/LaTeX).
+[TeXmacs](https://en.wikipedia.org/wiki/GNU_TeXmacs) over [LaTeX](https://en.wikipedia.org/wiki/LaTeX).
 
 ## Term projects
 
