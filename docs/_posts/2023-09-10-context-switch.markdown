@@ -30,4 +30,6 @@ the internal "merge" nodes to be smaller than the any of the leaf "point" nodes.
 This way I don't have to worry about rotations, and just have to worry about
 how to split, merge, insert and delete from such treaps.
 
-That's definitely a story for some other time.
+~~That's definitely a story for some other time.~~
+
+Update September 14th : I've implemented a prototype of such an interval-treap.
