@@ -58,11 +58,3 @@ The objective function is :
 $$ L = \gamma \{\sum_{(r, l) \in R}{H(P(r), l)}\} - \alpha \{\sum_{(f, l)\in R \cup F}{H(P(f))}\} $$
 
 where R and F are retain and forget sets respectively.
-
-Here is a Github Gist with all of the work.
-
-<script src="https://gist.github.com/sumeetshirgure/fd6e0c0fcd16b62688e216fe85cc2206.js"></script>
-
-Notice how only the ‘OB’ model has similar entropy values for all three data subsets,
-and also isn’t affected by the classifiers. Also note that as a side-effect, the entropy doesn’t vary much
-for the OB network.
