@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Fully dynamic convex hull in the plane"
+date: 2023-09-22
+categories: jekyll update
+---
+
+It's done! The code is up on my GitHub webpage.
+
+All those days glued to lenny (my Lenovo laptop) were worth it.
+Della would be proud too. (Guess who?)
+
+I'll try to publish something if this is considered original.
+Even though I feel like I rediscovered quite a bit of the details, there are
+a few improvements over existing literature.
+But I fear that the idea of supplying custom predicates as template parameters
+is a brilliancy no print will appreciate.
+
+But...
+It works really well in practice and can be really useful should the need arise.
+Once I write something of a report on the tool, I'll finally be done.
+
