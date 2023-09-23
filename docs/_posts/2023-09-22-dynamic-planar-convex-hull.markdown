@@ -5,7 +5,7 @@ date: 2023-09-22
 categories: jekyll update
 ---
 
-It's done! The code is up on my GitHub webpage.
+It's done! The [code](https://github.com/sumeetshirgure/DynamicPlanarHull) is up on my GitHub webpage.
 
 All those days glued to lenny (my Lenovo laptop) were worth it.
 Della would be proud too. (Guess who?)
@@ -20,3 +20,6 @@ But...
 It works really well in practice and can be really useful should the need arise.
 Once I write something of a report on the tool, I'll finally be done.
 
+
+Update September 23: I'm thinking of integrating it with [CGAL](https://github.com/CGAL/cgal/issues/7739)!
+Hopefully they'll let me.
