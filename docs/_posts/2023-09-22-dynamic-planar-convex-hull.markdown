@@ -23,3 +23,5 @@ Once I write something of a report on the tool, I'll finally be done.
 
 Update September 23: I'm thinking of integrating it with [CGAL](https://github.com/CGAL/cgal/issues/7739)!
 Hopefully they'll let me.
+
+Update September 24: I've written a manuscript that I've submitted to ACM.
