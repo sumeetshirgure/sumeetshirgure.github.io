@@ -8,11 +8,8 @@ categories: jekyll update
 This is a retropost for photos and memories of my team trip to Boston in 2023
 for MIT's [iQuHACK 2023](https://www.iquise.mit.edu/iQuHACK/2023-01-27)
 
-![Hackathon room](/assets/photos/boston2023/hackathon-room.jpg)
+<p align="center"> <img src="/assets/photos/boston2023/hackathon-room.jpg" /> </p>
+<center> Here's a photo of the hackathon under way. </center>
 
-Here's a photo of the hackathon under way.
-
-![Garden](/assets/photos/boston2023/garden.jpg)
-
-Peace was never an option.
-
+<p align="center"> <img src="/assets/photos/boston2023/garden.jpg" /> </p>
+<center> Peace was never an option. </center>

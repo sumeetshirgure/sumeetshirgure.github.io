@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Seattle 2023"
+date: 2023-09-26
+categories: jekyll update
+---
+
+This is a photopost of trips and memories from my time in Seattle in 2022-2023.
+I stayed here briefly in December 2022 and then in summer of 2023.
+It was growing on me. I'll move back to LA soon.
+
+<p align="center"><img src="/assets/photos/seattle2023/meee.jpg"></p>
+<center> Me at the top of Space Needle. </center>
+
+<p align="center"><img src="/assets/photos/seattle2023/downtown.jpg"></p>
+<center> Downtown Seattle as seen from up there. </center>
+
+<p align="center"><img src="/assets/photos/seattle2023/space_needle.jpg"></p>
+<center> Aforementioned needle. </center>
+
+<p align="center"><img src="/assets/photos/seattle2023/olympic_sculpture_park.jpg"></p>
+<center> Olympic sculpture park. </center>
+
+<p align="center"><img src="/assets/photos/seattle2023/paramount.jpg"></p>
+<center> Paramount theatre. </center>
+
+<p align="center"><img src="/assets/photos/seattle2023/snow.jpg"></p>
+<center> Snowfall in December. </center>
+
+<p align="center"><img src="/assets/photos/seattle2023/chess_club.jpg"></p>
+<center> Chess club notice on a random lamppost. </center>
+
+<p align="center"><img src="/assets/photos/seattle2023/homies.jpg"></p>
+<center> Me and my buddies at the Starbucks reserve roastery. </center>
+

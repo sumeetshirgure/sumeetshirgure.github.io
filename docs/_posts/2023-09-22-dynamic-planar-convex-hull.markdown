@@ -25,3 +25,6 @@ Update September 23: I'm thinking of integrating it with [CGAL](https://github.c
 Hopefully they'll let me.
 
 Update September 24: I've written a manuscript that I've submitted to ACM.
+
+Update September 26: I could have submitted to [SoftwareX](https://www.sciencedirect.com/journal/softwarex) too.
+I've a draft ready in case TOMS rejects me lol.
