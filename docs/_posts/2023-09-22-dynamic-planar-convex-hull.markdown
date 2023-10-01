@@ -28,3 +28,5 @@ Update September 24: I've written a manuscript that I've submitted to ACM.
 
 Update September 26: I could have submitted to [SoftwareX](https://www.sciencedirect.com/journal/softwarex) too.
 I've a draft ready in case TOMS rejects me lol.
+
+Update September 30: I've received feedback that my manuscript may be acceptable modulo some minor revisions. Yay.
