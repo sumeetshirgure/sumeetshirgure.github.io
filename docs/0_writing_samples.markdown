@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Writings
+title: Writings and talks
 permalink: /writings/
 ---
 
-This page links some of my writings, presentations and projects.
+This page links some of my writings, talks, presentations and projects.
 
-Also a little bit of advertisement, for making quick PDFs I prefer
+Also a little bit of advertisement, for making the occasional quick PDF I prefer
 [TeXmacs](https://en.wikipedia.org/wiki/GNU_TeXmacs) over [LaTeX](https://en.wikipedia.org/wiki/LaTeX).
 
 # Quantum computing and quantum information
@@ -22,12 +22,14 @@ Also a little bit of advertisement, for making quick PDFs I prefer
 [[pdf](/assets/pdfs/projects/cs_599_project.pdf)]
 
 # AI/ML
-- Interpretability of multi-modal neural models trained with contrastive self-supervised learning
-[[pdf](/assets/pdfs/projects/cs_566_paper.pdf)]
-- Emergent structures in transformer models trained by self-supervised methods
-[[ppt](/assets/pdfs/presentations/cs_566.pdf)]
+- A flaw in the NeurIPS unlearning challenge and a framework for entropy regularization.
+[[pdf](/assets/pdfs/papers/unlearn_flaw.pdf)]
 - Foundation models - a 2022, 2023 review
 [[pdf](/assets/pdfs/projects/foundation_models_review.pdf)]
+- Emergent structures in transformer models trained by self-supervised methods
+[[ppt](/assets/pdfs/presentations/cs_566.pdf)]
+- Interpretability of multi-modal neural models trained with contrastive self-supervised learning
+[[pdf](/assets/pdfs/projects/cs_566_paper.pdf)]
 
 # Engineering
 - Updates on the superconductor electronics logic synthesizer tool at
