@@ -16,6 +16,7 @@ Also a little bit of advertisement, for making the occasional quick PDF I prefer
 [[report](/assets/pdfs/projects/ee_520_project.pdf) for EE520]
 [[presentation](/assets/pdfs/presentations/ee_520.pdf) for EE520]
 [[talk](/assets/pdfs/presentations/qchack_2022.pdf) at Microsoft Azure Quantum]
+[[hackathon project](https://github.com/sumeetshirgure/qchack2022-microsoft-challenge)]
 - A gentle introduction to quantum algorithms for combinatorial and optimization problems
 [[reading project](/assets/pdfs/projects/cs_675_project.pdf) for CS675]
 - The hidden subgroup problem and the quantum fourier transform
