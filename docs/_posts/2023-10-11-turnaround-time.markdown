@@ -28,7 +28,7 @@ Peer review will take a long time, and it's much more advantageous for me to pos
 that my future advisors and PhD hiring committees can appreciate them.
 Moreover ACM and Elsevier journals require public access fees, and I'm not sure how public this blog will be considered.
 Even the code is open sourced.
-I'll wait a few weeks before posting it here just in case they decide to accept it sooner than my PhD applications.
+I'll wait a few ~~weeks~~ days before posting it here. ~~just in case they decide to accept it sooner than my PhD applications.~~
 
 In other news, I believe I'm making some theoretical progress on low latency greedy decoding schemes for
 topological quantum error correction.

@@ -11,30 +11,33 @@ Also a little bit of advertisement, for making the occasional quick PDF I prefer
 
 # Quantum computing and quantum information
 - Scalable decoders for quantum surface codes
-[[pdf](/assets/pdfs/projects/ee_599_project.pdf)]
+[[letter](/assets/pdfs/projects/ee_599_project.pdf)]
 - Solving the subset sum problem on a quantum computer
-[[pdf](/assets/pdfs/projects/ee_520_project.pdf)]
-[[ppt1](/assets/pdfs/presentations/ee_520.pdf)]
-[[ppt2](/assets/pdfs/presentations/qchack_2022.pdf)]
+[[report](/assets/pdfs/projects/ee_520_project.pdf) for EE520]
+[[presentation](/assets/pdfs/presentations/ee_520.pdf) for EE520]
+[[talk](/assets/pdfs/presentations/qchack_2022.pdf) at Microsoft Azure Quantum]
 - A gentle introduction to quantum algorithms for combinatorial and optimization problems
-[[pdf](/assets/pdfs/projects/cs_675_project.pdf)]
+[[reading project](/assets/pdfs/projects/cs_675_project.pdf) for CS675]
 - The hidden subgroup problem and the quantum fourier transform
-[[pdf](/assets/pdfs/projects/cs_599_project.pdf)]
+[[reading project](/assets/pdfs/projects/cs_599_project.pdf) for CS599]
 
 # AI/ML
-- A flaw in the NeurIPS unlearning challenge and a framework for entropy regularization.
-[[pdf](/assets/pdfs/papers/unlearn_flaw.pdf)]
+- A flaw in the NeurIPS unlearning challenge and an algorithmic framework for entropy regularization.
+\[Submitted to TMLR\] [[paper](/assets/pdfs/papers/unlearn_flaw.pdf)]
 - Foundation models - a 2022, 2023 review
-[[pdf](/assets/pdfs/projects/foundation_models_review.pdf)]
+[[letter](/assets/pdfs/projects/foundation_models_review.pdf)]
 - Emergent structures in transformer models trained by self-supervised methods
-[[ppt](/assets/pdfs/presentations/cs_566.pdf)]
+[[presentation](/assets/pdfs/presentations/cs_566.pdf)]
 - Interpretability of multi-modal neural models trained with contrastive self-supervised learning
-[[pdf](/assets/pdfs/projects/cs_566_paper.pdf)]
+[[report](/assets/pdfs/projects/cs_566_paper.pdf) for CS566]
 
 # Engineering
 - Updates on the superconductor electronics logic synthesizer tool at
 [SPORT Lab](https://sportlab.usc.edu/)
-[[ppt](/assets/pdfs/presentations/qsyn.pdf)]
+[[talk](/assets/pdfs/presentations/qsyn.pdf)]
 
 # Geometry
+- Robust implementations of real time algorithms for maintaining the convex hull of a dynamic
+set in the plane. \[Submitted to ACM TOMS\]
+[[paper](/assets/pdfs/papers/dpch.pdf)] [[code](https://github.com/sumeetshirgure/DynamicPlanarHull)]
 - L-shaped 2D knapsack implementation [[pdf](/assets/pdfs/projects/l2dk.pdf)]
