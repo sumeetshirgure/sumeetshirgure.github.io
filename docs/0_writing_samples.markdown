@@ -25,6 +25,7 @@ Also a little bit of advertisement, for making the occasional quick PDF I prefer
 # AI/ML
 - A flaw in the NeurIPS unlearning challenge and an algorithmic framework for entropy regularization.
 \[Submitted to TMLR\] [[paper](/assets/pdfs/papers/unlearn_flaw.pdf)]
+[[talk](/assets/pdfs/presentations/unlearn_flaw.pdf)]
 - Foundation models - a 2022, 2023 review
 [[letter](/assets/pdfs/projects/foundation_models_review.pdf)]
 - Emergent structures in transformer models trained by self-supervised methods
@@ -41,4 +42,5 @@ Also a little bit of advertisement, for making the occasional quick PDF I prefer
 - Robust implementations of real time algorithms for maintaining the convex hull of a dynamic
 set in the plane. \[Submitted to ACM TOMS\]
 [[paper](/assets/pdfs/papers/dpch.pdf)] [[code](https://github.com/sumeetshirgure/DynamicPlanarHull)]
+[[talk](/assets/pdfs/presentations/dpp.pdf)]
 - L-shaped 2D knapsack implementation [[pdf](/assets/pdfs/projects/l2dk.pdf)]
