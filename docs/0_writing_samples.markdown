@@ -24,7 +24,8 @@ Also a little bit of advertisement, for making the occasional quick PDF I prefer
 
 # AI/ML
 - A flaw in the NeurIPS unlearning challenge and an algorithmic framework for entropy regularization.
-\[Submitted to TMLR\] [[paper](/assets/pdfs/papers/unlearn_flaw.pdf)]
+\[Accepted at NeurIPS 2023 [New in ML](https://newinml.github.io/) workshop\]
+[[paper](/assets/pdfs/papers/unlearn_flaw.pdf)]
 [[talk](/assets/pdfs/presentations/unlearn_flaw.pdf)]
 - Foundation models - a 2022, 2023 review
 [[letter](/assets/pdfs/projects/foundation_models_review.pdf)]
