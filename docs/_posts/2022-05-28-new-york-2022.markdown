@@ -1,0 +1,16 @@
+---
+layout: post
+title: "New York City 2022"
+date: 2022-05-28 14:00:00 -0400
+categories: jekyll update
+---
+
+This is a retropost for photos and memories of my trip to NYC in May of 2022.
+
+![globe](/assets/photos/nyc2022/globe.jpg)
+
+![skyline](/assets/photos/nyc2022/skyline.jpg)
+
+![subway](/assets/photos/nyc2022/subway.jpg)
+
+![homies](/assets/photos/nyc2022/homies.jpg)

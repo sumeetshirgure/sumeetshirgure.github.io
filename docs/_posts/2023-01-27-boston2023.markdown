@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Boston 2023"
+date:   2023-01-27 15:00:00 -0400
+categories: jekyll update
+---
+
+This is a retropost for photos and memories of my team trip to Boston in 2023
+for MIT's [iQuHACK 2023](https://www.iquise.mit.edu/iQuHACK/2023-01-27)
+
+<p align="center"> <img src="/assets/photos/boston2023/hackathon-room.jpg" /> </p>
+<center> Here's a photo of the hackathon under way. </center>
+
+<p align="center"> <img src="/assets/photos/boston2023/garden.jpg" /> </p>
+<center> Peace was never an option. </center>
