@@ -6,13 +6,12 @@ permalink: /about/
 
 ![Portrait](/assets/images/pfp.jpg)
 
-I'm a [USC](https://www.usc.edu) alumnus where I got my Master's in Science with honors.
-I'll let you guess my major. However I was also quite involved with electrical engineering
-and quantum computing.
+I'm a [USC](https://www.usc.edu) alumnus where I got my Master's in Computer Science with honors.
+However I was also quite involved with electrical engineering and quantum computing.
 
 Before that I briefly worked remotely as a software engineer at Google's Bangalore offices.
 
-I got my undergraduate degree from [IIT Kharagpur](https://www.iitkgp.ac.in).
+I received my undergraduate degree from [IIT Kharagpur](https://www.iitkgp.ac.in).
 Most notably I participated in ICPC style programming contests.
 My teammates and I even ended up representing India at the [2019 World Finals](https://icpc2019.up.pt)
 Here's my [Codeforces](https://codeforces.com/profile/Sumeet.Shirgure) profile.
@@ -24,9 +23,7 @@ I'm interested in all sorts of topics ranging from theoretical computer science,
 artificial intelligence, natural language processing, to quantum computing, physics,
 and even pure and applied math.
 
-This blog is named after Scott Aaronson's [Shtetl optimized](https://scottaaronson.blog/).
-
-Linked are my [LinkedIn](https://linkedin.com/in/sumeetshirgure) and [Github](https://github.com/sumeetshirgure) pages you can stalk me on.
+Linked are my [LinkedIn](https://linkedin.com/in/sumeetshirgure) and [Github](https://github.com/sumeetshirgure) pages you can follow me on.
 
 Here's my [CV](/assets/pdfs/cv/Sumeet_Shirgure_CV.pdf).
 
