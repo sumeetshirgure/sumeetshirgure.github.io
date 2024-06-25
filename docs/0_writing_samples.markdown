@@ -21,6 +21,7 @@ Also a little bit of advertisement, for making the occasional quick PDF I prefer
 [[reading project](/assets/pdfs/projects/cs_675_project.pdf) for CS675]
 - The hidden subgroup problem and the quantum fourier transform
 [[reading project](/assets/pdfs/projects/cs_599_project.pdf) for CS599]
+[[presentation](/assets/pdfs/presentations/cs-599.pdf) for CS599]
 
 # AI/ML
 - A flaw in the NeurIPS unlearning challenge and an algorithmic framework for entropy regularization.
