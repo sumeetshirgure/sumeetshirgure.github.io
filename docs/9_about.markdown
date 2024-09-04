@@ -19,10 +19,6 @@ Here's my [Codeforces](https://codeforces.com/profile/Sumeet.Shirgure) profile.
 I also interned once at Adobe, Noida as a deep learning researcher in NLP,
 and once at D.E. Shaw, Hyderabad as a software engineer.
 
-I'm interested in all sorts of topics ranging from theoretical computer science,
-artificial intelligence, natural language processing, to quantum computing, physics,
-and even pure and applied math.
-
 Linked are my [LinkedIn](https://linkedin.com/in/sumeetshirgure) and [Github](https://github.com/sumeetshirgure) pages you can follow me on.
 
 Here's my [CV](/assets/pdfs/cv/Sumeet_Shirgure_CV.pdf).
