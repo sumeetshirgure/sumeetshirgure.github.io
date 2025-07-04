@@ -6,8 +6,10 @@ permalink: /about/
 
 ![Portrait](/assets/images/pfp.jpg)
 
-I'm a [USC](https://www.usc.edu) alumnus where I got my Master's in Computer Science with honors.
-However I was also quite involved with electrical engineering and quantum computing.
+I'm a PhD student at University of Central Florida, advised by Prof. Siyuan Niu.
+
+I got my Master's in Computer Science with honors from USC.
+I was quite involved with electrical engineering and quantum computing.
 
 Before that I briefly worked remotely as a software engineer at Google's Bangalore offices.
 
