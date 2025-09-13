@@ -10,18 +10,24 @@ Also a little bit of advertisement, for making the occasional quick PDF I prefer
 [TeXmacs](https://en.wikipedia.org/wiki/GNU_TeXmacs) over [LaTeX](https://en.wikipedia.org/wiki/LaTeX).
 
 # Quantum computing and quantum information {#qcqi}
+- Dynamic circuit compilation for sparse qubit connectivity
+[[poster](/assets/pdfs/posters/dynconn.pdf) accepted at Quantum Week 2025]
+
 - Scalable decoders for quantum surface codes
-[[letter](/assets/pdfs/projects/ee_599_project.pdf)]
+[[letter](/assets/pdfs/projects/ee_599_project.pdf) for EE599 at USC]
+
 - Solving the subset sum problem on a quantum computer
-[[report](/assets/pdfs/projects/ee_520_project.pdf) for EE520]
-[[presentation](/assets/pdfs/presentations/ee_520.pdf) for EE520]
+[[report](/assets/pdfs/projects/ee_520_project.pdf) for EE520 at USC]
+[[presentation](/assets/pdfs/presentations/ee_520.pdf) for EE520 at USC]
 [[talk](/assets/pdfs/presentations/qchack_2022.pdf) at Microsoft Azure Quantum]
-[[hackathon project](https://github.com/sumeetshirgure/qchack2022-microsoft-challenge)]
+[[hackathon project](https://github.com/sumeetshirgure/qchack2022-microsoft-challenge) on Github]
+
 - A gentle introduction to quantum algorithms for combinatorial and optimization problems
-[[reading project](/assets/pdfs/projects/cs_675_project.pdf) for CS675]
+[[reading project](/assets/pdfs/projects/cs_675_project.pdf) for CS675 at USC]
+
 - The hidden subgroup problem and the quantum fourier transform
-[[reading project](/assets/pdfs/projects/cs_599_project.pdf) for CS599]
-[[presentation](/assets/pdfs/presentations/cs-599.pdf) for CS599]
+[[reading project](/assets/pdfs/projects/cs_599_project.pdf) for CS599 at USC]
+[[presentation](/assets/pdfs/presentations/cs-599.pdf) for CS599 at USC]
 
 # AI/ML {#aiml}
 - A flaw in the NeurIPS unlearning challenge and an algorithmic framework for entropy regularization.
@@ -29,15 +35,18 @@ Also a little bit of advertisement, for making the occasional quick PDF I prefer
 [[poster](/assets/pdfs/posters/unlearn.pdf)]
 [[paper](/assets/pdfs/papers/unlearn_flaw.pdf)]
 [[talk](/assets/pdfs/presentations/unlearn_flaw.pdf)]
+
 - Foundation models - a 2022, 2023 review
 [[letter](/assets/pdfs/projects/foundation_models_review.pdf)]
+
 - Emergent structures in transformer models trained by self-supervised methods
 [[presentation](/assets/pdfs/presentations/cs_566.pdf)]
+
 - Interpretability of multi-modal neural models trained with contrastive self-supervised learning
 [[report](/assets/pdfs/projects/cs_566_paper.pdf) for CS566]
 
 # Engineering {#engg}
-- Updates on the superconductor electronics logic synthesizer tool at
+- Updates on the SFQ logic synthesizer tool at
 [SPORT Lab](https://sportlab.usc.edu/)
 [[talk](/assets/pdfs/presentations/qsyn.pdf)]
 
@@ -47,4 +56,5 @@ set in the plane.
 [[preprint](/assets/pdfs/papers/dpch.pdf)]
 [[code](https://github.com/sumeetshirgure/DynamicPlanarHull)]
 [[talk](/assets/pdfs/presentations/dpp.pdf)]
+
 - L-shaped 2D knapsack implementation [[pdf](/assets/pdfs/projects/l2dk.pdf)]
