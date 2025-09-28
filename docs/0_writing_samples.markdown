@@ -11,7 +11,9 @@ Also a little bit of advertisement, for making the occasional quick PDF I prefer
 
 # Quantum computing and quantum information {#qcqi}
 - Dynamic circuit compilation for sparse qubit connectivity
-[[poster](/assets/pdfs/posters/dynconn.pdf) accepted at Quantum Week 2025]
+\[Accepted at Quantum Week 2025\]
+[[poster](/assets/pdfs/posters/dynconn.pdf)]
+[[code](https://github.com/sumeetshirgure/dynconn)]
 
 - Scalable decoders for quantum surface codes
 [[letter](/assets/pdfs/projects/ee_599_project.pdf) for EE599 at USC]
