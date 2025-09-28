@@ -1,0 +1,23 @@
+---
+layout: post
+title: "New Orleans 2023"
+date: 2023-12-11
+categories: jekyll update
+---
+
+This is a photopost of memories from my time in New Orleans in December of 2023.
+I was presenting a poster at NeurIPS 2023.
+
+<p align="center"><img src="/assets/photos/nola2023/mississippi.jpg"></p>
+<center> Mississippi river. </center>
+
+<p align="center"><img src="/assets/photos/nola2023/canal_street.jpg"></p>
+<center> Canal street. </center>
+
+<p align="center"><img src="/assets/photos/nola2023/french_quarter.jpg"></p>
+<center> French quarter. </center>
+
+<p align="center"><img src="/assets/photos/nola2023/jackson_square.jpg"></p>
+<center> Jackson square. </center>
+
+
