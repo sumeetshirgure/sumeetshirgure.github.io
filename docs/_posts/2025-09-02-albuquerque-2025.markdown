@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Albuquerque 2025"
+date: 2025-09-02
+categories: jekyll update
+---
+
+This is a photopost of my time in Albuquerque in September of 2025.
+I presented a poster at IEEE Quantum Week 2025.
+
+<p align="center"><img src="/assets/photos/albuquerque2025/city_hall.jpg"></p>
+<center> ABQ City hall. </center>
+
+<p align="center"><img src="/assets/photos/albuquerque2025/poster_presentation.jpg"></p>
+<center> Me presenting my poster. </center>
