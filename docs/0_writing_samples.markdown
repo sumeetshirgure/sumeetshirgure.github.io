@@ -12,6 +12,7 @@ Also a little bit of advertisement, for making the occasional quick PDF I prefer
 # Quantum computing and quantum information {#qcqi}
 - Dynamic circuit compilation for sparse qubit connectivity
 \[Accepted at Quantum Week 2025\]
+[[DOI](https://doi.org/10.1109/QCE65121.2025.10360)]
 [[poster](/assets/pdfs/posters/dynconn.pdf)]
 [[code](https://github.com/sumeetshirgure/dynconn)]
 
