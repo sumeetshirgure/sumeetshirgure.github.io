@@ -10,6 +10,12 @@ Also a little bit of advertisement, for making the occasional quick PDF I prefer
 [TeXmacs](https://en.wikipedia.org/wiki/GNU_TeXmacs) over [LaTeX](https://en.wikipedia.org/wiki/LaTeX).
 
 # Quantum computing and quantum information {#qcqi}
+- Characterizing and Benchmarking Dynamic Quantum Circuits
+[[arxiv](https://arxiv.org/abs/2604.03360)]
+[[code](https://github.com/sumeetshirgure/dynamarq)]
+[[docs](https://sumeetshirgure.github.io/dynamarq.github.io)]
+
+
 - Dynamic circuit compilation for sparse qubit connectivity
 \[Accepted at Quantum Week 2025\]
 [[DOI](https://doi.org/10.1109/QCE65121.2025.10360)]
