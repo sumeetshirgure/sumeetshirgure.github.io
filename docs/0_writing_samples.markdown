@@ -10,6 +10,10 @@ Also a little bit of advertisement, for making the occasional quick PDF I prefer
 [TeXmacs](https://en.wikipedia.org/wiki/GNU_TeXmacs) over [LaTeX](https://en.wikipedia.org/wiki/LaTeX).
 
 # Quantum computing and quantum information {#qcqi}
+- Error Mitigation in Dynamic Circuits for Hamiltonian Simulation
+[[code](https://github.com/sumeetshirgure/dynemsim)]
+
+
 - Characterizing and Benchmarking Dynamic Quantum Circuits
 [[arxiv](https://arxiv.org/abs/2604.03360)]
 [[code](https://github.com/sumeetshirgure/dynamarq)]
