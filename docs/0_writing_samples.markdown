@@ -9,67 +9,74 @@ This page links some of my writings, talks, presentations and projects.
 Also a little bit of advertisement, for making the occasional quick PDF I prefer
 [TeXmacs](https://en.wikipedia.org/wiki/GNU_TeXmacs) over [LaTeX](https://en.wikipedia.org/wiki/LaTeX).
 
+
 # Quantum computing and quantum information {#qcqi}
-- Error Mitigation in Dynamic Circuits for Hamiltonian Simulation
-\[Accepted in GLS VLSI 2026\]
-[[arxiv](https://arxiv.org/abs/2605.05256)]
-[[code](https://github.com/sumeetshirgure/dynemsim)]
+- Error Mitigation in Dynamic Circuits for Hamiltonian Simulation\\
+    \[Accepted in GLS VLSI 2026\]
+    [[arxiv](https://arxiv.org/abs/2605.05256)]
+    [[code](https://github.com/sumeetshirgure/dynemsim)]
 
 
-- Characterizing and Benchmarking Dynamic Quantum Circuits
-[[arxiv](https://arxiv.org/abs/2604.03360)]
-[[code](https://github.com/sumeetshirgure/dynamarq)]
-[[docs](https://sumeetshirgure.github.io/dynamarq.github.io)]
+- Characterizing and Benchmarking Dynamic Quantum Circuits\\
+    [[arxiv](https://arxiv.org/abs/2604.03360)]
+    [[code](https://github.com/sumeetshirgure/dynamarq)]
+    [[docs](https://sumeetshirgure.github.io/dynamarq.github.io)]
 
 
-- Dynamic circuit compilation for sparse qubit connectivity
-\[Accepted at Quantum Week 2025\]
-[[DOI](https://doi.org/10.1109/QCE65121.2025.10360)]
-[[poster](/assets/pdfs/posters/dynconn.pdf)]
-[[code](https://github.com/sumeetshirgure/dynconn)]
+- Dynamic circuit compilation for sparse qubit connectivity\\
+    \[Accepted at Quantum Week 2025\]
+    [[DOI](https://doi.org/10.1109/QCE65121.2025.10360)]
+    [[poster](/assets/pdfs/posters/dynconn.pdf)]
+    [[code](https://github.com/sumeetshirgure/dynconn)]
 
-- Scalable decoders for quantum surface codes
-[[letter](/assets/pdfs/projects/ee_599_project.pdf) for EE599 at USC]
 
-- Solving the subset sum problem on a quantum computer
-[[report](/assets/pdfs/projects/ee_520_project.pdf) for EE520 at USC]
-[[presentation](/assets/pdfs/presentations/ee_520.pdf) for EE520 at USC]
-[[talk](/assets/pdfs/presentations/qchack_2022.pdf) at Microsoft Azure Quantum]
-[[hackathon project](https://github.com/sumeetshirgure/qchack2022-microsoft-challenge) on Github]
+- Scalable decoders for quantum surface codes\\
+    [[letter](/assets/pdfs/projects/ee_599_project.pdf) for EE599 at USC]
 
-- A gentle introduction to quantum algorithms for combinatorial and optimization problems
-[[reading project](/assets/pdfs/projects/cs_675_project.pdf) for CS675 at USC]
 
-- The hidden subgroup problem and the quantum fourier transform
-[[reading project](/assets/pdfs/projects/cs_599_project.pdf) for CS599 at USC]
-[[presentation](/assets/pdfs/presentations/cs-599.pdf) for CS599 at USC]
+- Solving the subset sum problem on a quantum computer\\
+    [[report](/assets/pdfs/projects/ee_520_project.pdf) for EE520 at USC]
+    [[presentation](/assets/pdfs/presentations/ee_520.pdf) for EE520 at USC]
+    [[talk](/assets/pdfs/presentations/qchack_2022.pdf) at Microsoft Azure Quantum]
+    [[hackathon project](https://github.com/sumeetshirgure/qchack2022-microsoft-challenge) on Github]
+
+
+- A gentle introduction to quantum algorithms for combinatorial and optimization problems\\
+    [[reading project](/assets/pdfs/projects/cs_675_project.pdf) for CS675 at USC]
+
+
+- The hidden subgroup problem and the quantum fourier transform\\
+    [[reading project](/assets/pdfs/projects/cs_599_project.pdf) for CS599 at USC]
+    [[presentation](/assets/pdfs/presentations/cs-599.pdf) for CS599 at USC]
+
 
 # AI/ML {#aiml}
-- A flaw in the NeurIPS unlearning challenge and an algorithmic framework for entropy regularization.
-\[Accepted at NeurIPS 2023 [New in ML](https://newinml.github.io/) workshop\]
-[[poster](/assets/pdfs/posters/unlearn.pdf)]
-[[paper](/assets/pdfs/papers/unlearn_flaw.pdf)]
-[[talk](/assets/pdfs/presentations/unlearn_flaw.pdf)]
+- A flaw in the NeurIPS unlearning challenge and an algorithmic framework for entropy regularization\\
+    \[Accepted at NeurIPS 2023 [New in ML](https://newinml.github.io/) workshop\]
+    [[poster](/assets/pdfs/posters/unlearn.pdf)]
+    [[paper](/assets/pdfs/papers/unlearn_flaw.pdf)]
+    [[talk](/assets/pdfs/presentations/unlearn_flaw.pdf)]
 
-- Foundation models - a 2022, 2023 review
-[[letter](/assets/pdfs/projects/foundation_models_review.pdf)]
+- Foundation models - a 2022, 2023 review\\
+    [[letter](/assets/pdfs/projects/foundation_models_review.pdf)]
 
-- Emergent structures in transformer models trained by self-supervised methods
-[[presentation](/assets/pdfs/presentations/cs_566.pdf)]
+- Emergent structures in transformer models trained by self-supervised methods\\
+    [[presentation](/assets/pdfs/presentations/cs_566.pdf)]
 
-- Interpretability of multi-modal neural models trained with contrastive self-supervised learning
-[[report](/assets/pdfs/projects/cs_566_paper.pdf) for CS566]
+- Interpretability of multi-modal neural models trained with contrastive self-supervised learning\\
+    [[report](/assets/pdfs/projects/cs_566_paper.pdf) for CS566 at USC]
+
 
 # Engineering {#engg}
-- Updates on the SFQ logic synthesizer tool at
-[SPORT Lab](https://sportlab.usc.edu/)
-[[talk](/assets/pdfs/presentations/qsyn.pdf)]
+- Updates on the SFQ logic synthesizer tool at [SPORT Lab](https://sportlab.usc.edu/)\\
+    [[talk](/assets/pdfs/presentations/qsyn.pdf)]
+
 
 # Geometry {#geom}
-- Robust implementations of real time algorithms for maintaining the convex hull of a dynamic
-set in the plane.
-[[preprint](/assets/pdfs/papers/dpch.pdf)]
-[[code](https://github.com/sumeetshirgure/DynamicPlanarHull)]
-[[talk](/assets/pdfs/presentations/dpp.pdf)]
+- Real time algorithms for maintaining the convex hull of a dynamic set in the plane\\
+    [[preprint](/assets/pdfs/papers/dpch.pdf)]
+    [[code](https://github.com/sumeetshirgure/DynamicPlanarHull)]
+    [[talk](/assets/pdfs/presentations/dpp.pdf)]
 
-- L-shaped 2D knapsack implementation [[pdf](/assets/pdfs/projects/l2dk.pdf)]
+- L-shaped 2D knapsack implementation\\
+    [[pdf](/assets/pdfs/projects/l2dk.pdf)]
