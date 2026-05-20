@@ -1,0 +1,38 @@
+---
+layout: post
+title: "Error Mitigation in Dynamic Circuits for Hamiltonian Simulation"
+date: 2026-05-14
+categories: jekyll update
+---
+
+This is a celebratory post for our new paper titled
+"Error Mitigation in Dynamic Circuits for Hamiltonian Simulation"
+which was accepted in GLS VLSI 2026 as a short paper and invited talk!
+This is the first peer reviewed paper of my PhD journey.
+Although we did put up something on the arxiv before.
+
+We benchmarked standard error mitigation techniques like dynamical decoupling
+([DD](https://en.wikipedia.org/wiki/Dynamical_decoupling)) and
+zero-noise extrapolation ([ZNE](https://mitiq.readthedocs.io/en/stable/guide/zne.html))
+when simulating quantum Hamiltonians, like the 1D Ising and Heisenberg chains,
+via Trotterization with circuits that include mid-circuit measurements (MCMs) and
+adaptive operations.
+Code and data are available [here](https://github.com/sumeetshirgure/dynemsim).
+
+My awesome advisor got us premium access to IBM Quantum superconducting hardware
+through LBNL for performing these experiments.
+I had to submit custom sampler jobs to IBM Quantum because they don't yet
+accept estimator jobs for circuits containing dynamic instructions
+like while loops or if/else statements.
+And I kind of understand why, it is difficult to integrate error mitigation
+techniques like DD/ZNE/PEC etc. when your circuit changes across shots.
+
+There has been some amazing work in error mitigation for example
+[[PEC](https://arxiv.org/pdf/2310.07825)]
+[[PROM](https://arxiv.org/pdf/2406.07611v2)]
+[[MCMit](https://arxiv.org/pdf/2604.25863)].
+
+We were lucky to be dealing with "dynamic gadgets" with MCMs and feedforwards
+that implement a specific unitary subcircuit that could be inverted easily.
+But it does raise the questions: how do we systematically amplify noise
+in non-unitary channels for ZNE? Would it even matter in the FTQC era?
