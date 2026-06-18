@@ -12,7 +12,7 @@ Also a little bit of advertisement, for making the occasional quick PDF I prefer
 
 # Quantum computing and quantum information {#qcqi}
 - Error Mitigation in Dynamic Circuits for Hamiltonian Simulation\\
-    \[Accepted in GLS VLSI 2026\]
+    \[Accepted in GLS VLSI 2026 [DOI](https://doi.org/10.1145/3787109.3816384)\]
     [[arxiv](https://arxiv.org/abs/2605.05256)]
     [[code](https://github.com/sumeetshirgure/dynemsim)]
 
