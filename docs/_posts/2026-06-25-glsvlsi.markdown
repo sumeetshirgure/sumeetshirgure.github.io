@@ -1,0 +1,32 @@
+---
+layout: post
+title: "GLS VLSI"
+date: 2026-06-25
+categories: jekyll update
+---
+
+This is a photopost of my trip to Canandaigua, NY and Niagara Falls
+in June 2026. I traveled to present my work on error mitigation
+in dynamic circuits for Hamiltonian simulation.
+
+<p align="center"><img src="/assets/photos/niagara2026/me_glsvlsi.jpg"></p>
+<center> Me at Hotel Canandaigua, NY for GLSVLSI 2026. </center>
+
+<p align="center"><img src="/assets/photos/niagara2026/canandaigua.jpg"></p>
+<center> Canandaigua Lady. I didn't get on sadly. </center>
+
+<p align="center"><img src="/assets/photos/niagara2026/america_falls_1.jpg"></p>
+<center> Niagara Falls from America side. </center>
+
+<p align="center"><img src="/assets/photos/niagara2026/america_falls_2.jpg"></p>
+
+<p align="center"><img src="/assets/photos/niagara2026/america_falls_3.jpg"></p>
+<center> Other angles. </center>
+
+<p align="center"><img src="/assets/photos/niagara2026/freedom.jpg"></p>
+<center> Freedom. </center>
+
+<p align="center"><img src="/assets/photos/niagara2026/birb.jpg"></p>
+<center> Cute birb I saw. </center>
+
+
