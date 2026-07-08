@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Birthday gift"
+date: 2026-07-07
+categories: jekyll update
+---
+
+I received great news on my birthday, that
+our work "Characterizing and Benchmarking Dynamic Quantum Circuits"
+got accepted in [MICRO 2026](https://www.microarch.org/micro59/)!
+This is a top tier computer architecture conference.
+
+We built an extension of the well known benchmarking suite
+[`SupermarQ`](https://arxiv.org/pdf/2202.1104).
+Our suite works for circuits with dynamic elements
+like mid-circuit measurements and feedforward operations.
+I named it [`dynamarq`](https://sumeetshirgure.github.io/dynamarq.github.io/).
+This has been a work in progress with me contributing since
+October 2025. The paper went up in April 2026, and got good
+reviews on SciRate too.
+I'm super happy to have been a part of this.
+I will be going to Athens in November 2026
+to present our work. And a photopost is mandatory.

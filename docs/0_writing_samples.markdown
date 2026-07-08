@@ -26,6 +26,7 @@ Also a little bit of advertisement, for making the occasional quick PDF I prefer
 
 
 - Characterizing and Benchmarking Dynamic Quantum Circuits\\
+    \[Accepted in MICRO 2026\]
     [[arxiv](https://arxiv.org/abs/2604.03360)]
     [[code](https://github.com/sumeetshirgure/dynamarq)]
     [[docs](https://sumeetshirgure.github.io/dynamarq.github.io)]
