@@ -8,7 +8,7 @@ This page links some of my writings, talks, presentations and projects.
 
 Also a little bit of advertisement, for making the occasional quick PDF I prefer
 [TeXmacs](https://en.wikipedia.org/wiki/GNU_TeXmacs) over [LaTeX](https://en.wikipedia.org/wiki/LaTeX).
-
+Although these days I just ask Claude to generate LaTeX.
 
 # Quantum computing and quantum information {#qcqi}
 
