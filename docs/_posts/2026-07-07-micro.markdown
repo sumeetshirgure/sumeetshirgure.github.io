@@ -11,7 +11,7 @@ got accepted in [MICRO 2026](https://www.microarch.org/micro59/)!
 This is a top tier computer architecture conference.
 
 We built an extension of the well known benchmarking suite
-[`SupermarQ`](https://arxiv.org/pdf/2202.1104).
+[`SupermarQ`](https://arxiv.org/pdf/2202.11045).
 Our suite works for circuits with dynamic elements
 like mid-circuit measurements and feedforward operations.
 I named it [`dynamarq`](https://sumeetshirgure.github.io/dynamarq.github.io/).
