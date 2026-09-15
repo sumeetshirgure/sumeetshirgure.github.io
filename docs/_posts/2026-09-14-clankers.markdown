@@ -30,7 +30,7 @@ And in their defence, AI companies are no angels (please don't cancel my subscri
 But there is an implicit assumption that the old way of doing things was the best and the only way.
 If academics want to restrict themselves and their subordinates to be "AI-free", all the power to them.
 But that in itself shouldn't give them a sense of superiority over other AI-consulting mortals.
-You have to be a fool not to forsee the potential for accelerating research using this technology.
+You have to be a fool not to foresee the potential for accelerating research using this technology.
 
 I'm using AI very liberally for my research. It's an amazing sparring partner to bounce ideas off
 of. Moreover, it's a super-human search engine for ideas.
@@ -41,7 +41,8 @@ It also helped me out with some basic matrix inequalities and variance decomposi
 that otherwise would have taken me days to research on my own, not to mention paywalls.
 Claude Sonnet wasn't as good as Fable/Mythos but it did a decent job.
 
-And it got accepted as a contributed talk at QTML 2026! It's also under review at Quantum Journal.
+And it got accepted as a contributed talk at QTML 2026!
+It's also currently with the editors of Quantum Journal.
 The paper itself explores a line of recent works in barren plateau mitigation in dynamic circuits.
 Specifically, we show that constructions like the one in this [paper](https://arxiv.org/abs/2411.05760) have some serious issues.
 (Fun fact: I had emailed one of its authors for an internship but got ghosted. So when I found
