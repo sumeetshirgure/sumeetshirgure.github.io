@@ -4,7 +4,7 @@ title: Writings and talks
 permalink: /writings/
 ---
 
-This page links some of my writings, talks, presentations and projects.
+This page links my writings, talks, presentations and projects.
 
 Also a little bit of advertisement, for making the occasional quick PDF I prefer
 [TeXmacs](https://en.wikipedia.org/wiki/GNU_TeXmacs) over [LaTeX](https://en.wikipedia.org/wiki/LaTeX).
@@ -13,6 +13,7 @@ Although these days I just ask Claude to generate LaTeX.
 # Quantum computing and quantum information {#qcqi}
 
 - Challenges in Barren Plateau Mitigation with Dynamic Parameterized Quantum Circuits\\
+    \[Accepted as a contributed talk at [QTML 2026](https://qtml2026.nithecs.ac.za/about)\]
     [[arxiv](https://arxiv.org/abs/2606.23751)]
     [[experiments](https://github.com/sumeetshirgure/dynbp)]
     [[sympauli](https://github.com/sumeetshirgure/sympauli)]

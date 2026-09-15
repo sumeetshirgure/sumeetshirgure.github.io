@@ -1,0 +1,71 @@
+---
+layout: post
+title: "Rise of the clankers"
+date: 2026-09-14
+categories: jekyll update
+---
+
+There is a giant elephant in the room that grew up from a young calf all the way
+to a giant mammoth in the span of about a year - LLM based generative AI models.
+It's unreal the amount of progress they have made over the past few months.
+They went from barely being able to solve codeforces division 1 level problems
+to literally being used in the frontier of theoretical research --
+across math, physics and especially my field : quantum information.
+The recent crack at Navier Stokes was just a cherry on top.
+
+It has lead to a lot of mathematicians getting their feelings hurt :
+[link](https://leidendeclaration.ai/), [another link](https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/).
+But this knee jerk reaction to AI mostly feels like a coping mechanism.
+I have seen countless posts actually criticizing the help AI provides in doing research,
+the above links included, out of fear of being replaced.
+There are literally university professors thinking of not sharing their brilliant
+ideas or research directions with the community out of fear of getting scooped by AI.
+If anything, this sheds light on the way academia is (was?) structured : these people aren't
+excited about knowing more or doing more.
+They are sad and afraid that they won't be credited for generating that knowledge.
+Really tells you exactly whose intentions are truly misaligned.
+
+Not to bash on them too hard : some of their concerns about training young researchers are well founded.
+And in their defence, AI companies are no angels (please don't cancel my subscription.)
+But there is an implicit assumption that the old way of doing things was the best and the only way.
+If academics want to restrict themselves and their subordinates to be "AI-free", all the power to them.
+But that in itself shouldn't give them a sense of superiority over other AI-consulting mortals.
+You have to be a fool not to forsee the potential for accelerating research using this technology.
+
+I'm using AI very liberally for my research. It's an amazing sparring partner to bounce ideas off
+of. Moreover, it's a super-human search engine for ideas.
+My latest paper
+"Challenges in Barren Plateau Mitigation with Dynamic Parameterized Quantum Circuits" [[arxiv](https://arxiv.org/abs/2606.23751)]
+benefited a lot from Claude code programming a symbolic manipulation engine.
+It also helped me out with some basic matrix inequalities and variance decomposition formulas
+that otherwise would have taken me days to research on my own, not to mention paywalls.
+Claude Sonnet wasn't as good as Fable/Mythos but it did a decent job.
+
+And it got accepted as a contributed talk at QTML 2026! It's also under review at Quantum Journal.
+The paper itself explores a line of recent works in barren plateau mitigation in dynamic circuits.
+Specifically, we show that constructions like the one in this [paper](https://arxiv.org/abs/2411.05760) have some serious issues.
+(Fun fact: I had emailed one of its authors for an internship but got ghosted. So when I found
+out these issues I was very happy to publish them.)
+As for analyzing dynamic circuit gadgets : I just saw CPTP channels and went
+
+
+<p align="center"><img src="/assets/memes/stinespring.png"></p>
+<center> Recorded footage of me realising how to model dynamic circuit gadgets.
+(Don't message me with anime questions I have never seen this. I just found the meme online.)
+</center>
+
+
+This paper started out as an attempt to solve the BP problem. But in itself, this was a negative result.
+Nevertheless, with this acceptance as encouragement, I want to proceed to solve other challenging problems.
+I'm currently working on super fast and cheap exact matching decoders for surface codes
+and Claude code has been invaluable for me to run experiments, debug and optimize my algorithms.
+I'll make sure to credit it exactly for its contributions.
+We'll be submitting our work to ISCA and I am confident it will get accepted.
+It quite literally mogs last year's ISCA decoder paper.
+
+As of now, Claude is not as great at setting research agendas or even writing a decent paper by itself.
+And it does produce a lot of slop -- I define slop as anything nobody cares about.
+Moreover, an automated loop that feeds on slop produces a slop-cycle which may lead
+it down a rabbit hole, which is why it needs constant guidance;
+similar to how graduate students need guidance from their supervisors.
+But I expect it will only improve from here. All in all, I'm excited for the future the clankers will usher in!
