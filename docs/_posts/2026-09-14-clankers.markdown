@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 There is a giant elephant in the room that grew up from a young calf all the way
-to a giant mammoth in the span of about a year - LLM based generative AI models.
+to an enormous mammoth in the span of about a year - LLM based generative AI models.
 It's unreal the amount of progress they have made over the past few months.
 They went from barely being able to solve codeforces division 1 level problems
 to literally being used in the frontier of theoretical research --
@@ -63,6 +63,7 @@ and Claude code has been invaluable for me to run experiments, debug and optimiz
 I'll make sure to credit it exactly for its contributions.
 We'll be submitting our work to ISCA and I am confident it will get accepted.
 It quite literally mogs last year's ISCA decoder paper.
+EDIT: It's up on GitHub! Look for `specmatching`. Paper coming soon.
 
 As of now, Claude is not as great at setting research agendas or even writing a decent paper by itself.
 And it does produce a lot of slop -- I define slop as anything nobody cares about.
