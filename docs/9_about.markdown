@@ -23,6 +23,6 @@ and once at D.E. Shaw, Hyderabad as a software engineer.
 
 Linked are my [LinkedIn](https://linkedin.com/in/sumeetshirgure) and [Github](https://github.com/sumeetshirgure) pages you can follow me on. And here's my [Google scholar](https://scholar.google.com/citations?user=Di8cn1QAAAAJ&hl=en&oi=ao).
 
-Here's my [CV](/assets/pdfs/cv/Sumeet_Shirgure_CV.pdf).
+Here's my [CV](/assets/pdfs/cv/CV.pdf).
 
 I use [Arch](https://archlinux.org/) by the way.
