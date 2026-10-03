@@ -35,7 +35,7 @@ Although these days I mostly ask Claude to generate LaTeX.
     [[code](https://github.com/sumeetshirgure/dynemsim)]
 
 
-- Characterizing and Benchmarking Dynamic Quantum Circuits\\
+- Scalable Benchmarking Framework for Dynamic Quantum Circuits\\
     \[Accepted in MICRO 2026\]
     [[arxiv](https://arxiv.org/abs/2604.03360)]
     [[code](https://github.com/sumeetshirgure/dynamarq)]
