@@ -1,0 +1,68 @@
+---
+layout: post
+title: "The distinction matters buddy!"
+date: 2026-10-08
+categories: jekyll update
+---
+
+AI is here to stay in academia and engineering without a doubt.
+In my last post I made the audacious claim that AI accelerated research is the future, and anyone opposing it is a fool.
+I think my evaluation of the offended academics in that post hit the nail on the head :
+[[CALLED IT](https://terrytao.wordpress.com/2026/10/07/ahm-statement-on-openais-october-6-release-of-mathematical-documents/comment-page-1/)].
+(The plagiarism allegations might hold up though. Like I said, these corporations aren't exactly humanitarian aid agencies.)
+
+
+In my research news : Claude code grinded down my distributed speculative truncated sparse
+blossom idea [[SpecMatching](https://github.com/sumeetshirgure/SpecMatching)]. 
+On top of it, in collaboration with Claude I solved (to the best of knowledge for the first time) a bottleneck that was present in
+implementing a particular mode of fault tolerant quantum computation in real time : namely magic state preparation for Clifford+T computation.
+Preparing high fidelity T states on rotated surface code-ish patches requires [postselecting](https://arxiv.org/pdf/2409.17595)
+on something called the decoder "soft output" which quantifies the confidence of the decoder's belief.
+For matching based decoders the complementary gap is a good proxy for it -- which is the minimum cost to flip the observable given a minimal matching.
+It only took about a week's worth of prompts, discussions and experimentations to arrive at a pretty elegant solution.
+With some more benchmarks on how it performs on "[yoking](https://www.nature.com/articles/s41467-025-59714-1)"
+or other kinds of code concatenation, it's easily a top tier paper.
+A caveat is that it requires sufficiently low error rates like one in a thousand. But that's reasonable. I guess.
+
+It's safe to say that it is downright disingenious to claim full credit for it. I'll gladly share my chats and prompts if asked.
+In the spirit of open science, I've made the code available on GitHub [[fastgap](https://github.com/sumeetshirgure/fastgap)]
+and the "Papers and talks" section hosts some slides. I don't even care if I'm "scooped" by someone who reads this and posts it on arxiv.
+LMAO just check the GitHub commit timestamp at this point.
+You hearing me boomers? This is how you do scientific attribution and credit assignment from now on. Deal with it! *sunglasses emoji*
+
+I'm already working on two other ideas regarding architecting fault tolerant quantum computers, including near term
+[partially fault tolerant](https://arxiv.org/pdf/2303.13181) ones.
+Currently, the rate limiter is just my imagination and my advisor's attention.
+
+However, none of the above means that there won't be any problems arising in doing AI-assisted research, or even engineering. Especially software engineering.
+My last post glazed LLMs too much, so I'm here to course correct a little.
+
+It comes down to a point made, ironically, by future unemployed mathematicians et. al.
+They say that mathematics is as much about thinking as it is about knowledge discovery.
+And if we eventually become lethargic and complacent in our analytical thinking skills, it might have unforseen consequences.
+Only now have I realized the full gravity of this situation : it's not just about analytical thinking skills. It's about the thought process in general.
+People first gave away writing English prose to AI. (I swear to god if I hear another news broadcast or read some essay that says some distinction matters I'm going to lose it.)
+Then we lost artistic pursuits to AI. Then software programming. And now mathematics.
+Soon AI will start generating everything on its own, while still (presumably) being controlled by humans.
+And the folks who have nothing to do will become useless, exactly like the inflated humanoids in Wall-E.
+
+The question will then become: are they also worthless? That discussion goes beyond the scope of this philosophical shitpost and into the territory of various social sciences.
+But I will say: the only way out I see is to adapt.
+Laziness and complacency should be viewed as a choice.
+Humans have overcome all sorts of crises by virtue of sheer intelligence.
+Whether we will be able to overcome a crisis of intelligence itself, and make a conscious decision to not give away what make us human is a genuine open question.
+
+Another possibility is that these models won't even be able to generalize to basic tasks? Who knows?
+[[link](https://arxiv.org/pdf/2610.08144)]
+One of the concerns I raised in my last post was the slop.
+Another aspect which will confound anyone who verifies AI generated output is the absolutely enormous volume of it.
+Be it mathematical proofs or code, anyone who doesn't bother to get into the weeds is bound to get lost in the sea of tokens spit out by AI.
+This will burden servers who host this mess [[link](https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/)],
+reviewers who read these papers, and committees responsible for any kind of resource allocation.
+It will also raise competition between researchers, and inevitably the bad behavior that accompanies it.
+Maybe this will incentivize deduplication of efforts across labs and industries working on the same goals.
+I sincerely hope these problems will be mitigated and won't stifle progress.
+
+In summary, I really like my code go brr machine. Don't make it the instrument of slop and enshittification!
+
+Shirgure out.
