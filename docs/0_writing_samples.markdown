@@ -14,6 +14,7 @@ Although these days I mostly ask Claude to generate LaTeX.
 
 - The Syndrome Buffer Sizing Problem in Quantum Error Correction\\
     \[Manuscript in preparation\]
+    \[[pre-preprint](https://github.com/sumeetshirgure/synbuf/tree/main)\]
 
 
 - Fast Bounds on Matching Decoder Soft Output for the Surface Code\\
