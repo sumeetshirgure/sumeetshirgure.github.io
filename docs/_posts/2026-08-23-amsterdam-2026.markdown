@@ -1,0 +1,48 @@
+---
+layout: post
+title: "Amsterdam 2026"
+date: 2026-08-23
+categories: jekyll update
+---
+
+
+This is a photopost of my trip to Amsterdam, Netherlands in August 2026.
+I traveled to attend a summer school on Quantum Algorithms and Quantum Error Correction
+at the University of Amsterdam.
+
+<p align="center"><img src="/assets/photos/amsterdam2026/windmill.jpg"></p>
+<center> A windmill but not really. </center>
+
+<p align="center"><img src="/assets/photos/amsterdam2026/clouds.jpg"></p>
+<center> Clouds over a river. </center>
+
+<p align="center"><img src="/assets/photos/amsterdam2026/bikes.jpg"></p>
+<center> Trillions of bikes. The whole city gives university campus vibes. </center>
+
+<p align="center"><img src="/assets/photos/amsterdam2026/canal1.jpg"></p>
+<center> Canal. </center>
+
+<p align="center"><img src="/assets/photos/amsterdam2026/canal2.jpg"></p>
+<center> Another canal. </center>
+
+<p align="center"><img src="/assets/photos/amsterdam2026/downtown.jpg"></p>
+<center> Downtown street. </center>
+
+<p align="center"><img src="/assets/photos/amsterdam2026/castle.jpg"></p>
+<center> Mini-castle in the city center. </center>
+
+A funny thing happened while I was walking around Amsterdam.
+I had taken photos along a path from my hostel to the city center.
+And my phone battery was running low.
+So while returning I couldn't run WiFi or look at Google Maps
+and had to rely on glancing at the photos for a few seconds.
+But the photos were taken from a perspective of the other side of the street.
+This motivated a combinatorial problem : "The Amsterdam Walk Problem",
+you are at a point on an undirected graph, and you want to reach your home.
+You can cross an edge, and find out only after crossing it whether you
+took that path earlier. Can you minimize the expected/worse case time to reach home?
+Does your initial journey need to be cycle-free?
+Can a similar problem be defined for the quantum random walk case?
+
+<p align="center"><img src="/assets/photos/amsterdam2026/pub.jpg"></p>
+<center> I made it back fortunately. This cozy pub is just by the university. I had ratatouille! </center>
