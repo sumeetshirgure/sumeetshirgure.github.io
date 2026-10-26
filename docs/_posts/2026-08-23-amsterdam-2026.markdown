@@ -40,7 +40,7 @@ But the photos were taken from a perspective of the other side of the street.
 This motivated a combinatorial problem : "The Amsterdam Walk Problem",
 you are at a point on an undirected graph, and you want to reach your home.
 You can cross an edge, and find out only after crossing it whether you
-took that path earlier. Can you minimize the expected/worse case time to reach home?
+took that path earlier. Can you minimize the expected/worst case time to reach home?
 Does your initial journey need to be cycle-free?
 Can a similar problem be defined for the quantum random walk case?
 
