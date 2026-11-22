@@ -10,7 +10,7 @@ Also a little bit of advertisement, for making the occasional quick PDF I prefer
 [TeXmacs](https://en.wikipedia.org/wiki/GNU_TeXmacs) over [LaTeX](https://en.wikipedia.org/wiki/LaTeX).
 Although these days I mostly ask Claude to generate LaTeX.
 
-# Quantum computing and quantum information {#qcqi}
+# Quantum Computing and Quantum Information {#qcqi}
 
 - The Syndrome Buffer Sizing Problem in Quantum Error Correction\\
     \[Manuscript in preparation\]
@@ -25,13 +25,14 @@ Although these days I mostly ask Claude to generate LaTeX.
     [[code](https://github.com/sumeetshirgure/fastgap)]
 
 
-- Speculative Matching for Low Latency Surface Code Quantum Error Correction\\
-    \[Manuscript in preparation\]
+- SpecMatching: Towards Real-Time Decoding of TeraQuop Regime Surface Codes\\
+    [[paper](/assets/pdfs/papers/specmatching.pdf) Submitted to arxiv. On moderation hold.\]
     [[code](https://github.com/sumeetshirgure/SpecMatching)]
 
 
 - Challenges in Barren Plateau Mitigation with Dynamic Parameterized Quantum Circuits\\
-    \[Accepted as a contributed talk at [QTML 2026](https://qtml2026.nithecs.ac.za/about)\]
+    \[Under review at Quantum\]
+    \[Accepted as a contributed talk at [QTML 2026](https://qtml2026.nithecs.ac.za/about)\]\\
     [[arxiv](https://arxiv.org/abs/2606.23751)]
     [[experiments](https://github.com/sumeetshirgure/dynbp)]
     [[sympauli](https://github.com/sumeetshirgure/sympauli)]
@@ -95,7 +96,7 @@ Although these days I mostly ask Claude to generate LaTeX.
     [[report](/assets/pdfs/projects/cs_566_paper.pdf) for CS566 at USC]
 
 
-# Engineering {#engg}
+# Electrical Engineering {#engg}
 - Updates on the SFQ logic synthesizer tool at [SPORT Lab](https://sportlab.usc.edu/)\\
     [[talk](/assets/pdfs/presentations/qsyn.pdf)]
 
