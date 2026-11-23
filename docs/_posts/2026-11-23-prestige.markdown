@@ -1,0 +1,84 @@
+---
+layout: post
+title: "Prestige pressure cooker"
+date: 2026-11-23
+categories: jekyll update
+---
+
+Research news first! My [[SpecMatching](/assets/pdfs/papers/specmatching.pdf)] preprint has been submitted to arxiv.
+Although it has been on moderation hold for more than a week.
+They just send back an automated reply to all hold related questions. Typical cable company moment.
+Maybe get that RenTech money to hire more moderators?
+
+<p/>
+
+Now to the topic of this blog/shitpost... Prestige.
+It carries a lot of weight in academia, and even industry.
+So much so that a university or company's name has a disproportionately larger impact on external decisions than their actual merit.
+People want to work at these places, students want to attend these schools, resources are allocated to them with a higher priority,
+and research that comes out of them is taken with a smaller grain of salt.
+They even wait less longer than others on arxiv moderation queues apparently.
+
+I was once such a student. IITs are the top engineering institutes in India, and have a very high bar for entry.
+But 3 Idiots was right, they are just hyped up pressure cookers. You get disillusioned with their charm pretty quickly.
+
+Later in life, I applied to several graduate programs in the US, and was reasonably confident that I would get into one of these prestigious institutions for a doctorate
+given my undergraduate and Master's were exceptionally productive and I did incredible work during those times.
+But boy was I wrong.
+I went a year with no acceptances.
+Luckily I still ended up with an amazing advisor, and I love my research and academics.
+I'm currently taking graduate level courses on quantum mechanics and condensed matter physics!
+
+But I sometimes wonder if these supposedly prestigious institutions really are doing a good job retaining the best talent. And I have my reasons.
+My group's recent works [[dynamarq](https://arxiv.org/abs/2604.03360)], [[DPQCs](https://arxiv.org/abs/2606.23751)],
+[[fastgap](/assets/pdfs/papers/fastgap.pdf)], [[SpecMatching](/assets/pdfs/papers/specmatching.pdf)],
+either find serious issues in a lot of the earlier works, or surpass and improve them dramatically. 
+A couple of the papers I'm dunking on aren't even peer reviewed and yet have many citations.
+And all of these earlier works happen to be from top tier universities.
+
+Here's an anecdote: this [[paper](https://arxiv.org/pdf/2405.07433)] seems to do a great job computing decoder soft output.
+Yet their explanation of _why_ the complementary matching decode is slow seems unconvincing. They cite a personal communication.
+I wouldn't be surprised if they don't understand it themselves: this could even be a case of a telephone-game-like garbling.
+
+On the other hand, my works can certainly improve, and I do hope that they are peer reviewed by decent people who can override prestige bias.
+<p align="center"><img src="/assets/memes/light.png"></p>
+<center>
+SpecMatching farming aura by generating the perfect global matching while doing fuckall about correlated errors, leakage channels and qubit loss.
+</center>
+<p/>
+
+Of course, I would be wrong to not take into account AI's help in my works. But I'm confident that I would have arrived at the same solutions and conclusions
+that Claude did given more time. A LOT more time.
+For example, in fastgap, my initial idea was to accelerate the complementary decode using graph compression, similar to what I did in SpecMatching.
+I considered [[r-nets](https://arxiv.org/pdf/cs/0409057)]
+and construction of "super-nodes" that route augmenting paths with some error in the approximated metric.
+The most significant of Claude's contribution was to use [[landmarks](https://www.cs.princeton.edu/courses/archive/spr06/cos423/Handouts/GH05.pdf)].
+The approximation error in which case is one-sided. Would I have found this paper by myself in a week or two? Maybe?
+
+In my interactions with AI, I've found that the questions you ask it shape the trajectory of your research.
+And so far, I've rarely seen Claude posing significant questions rather than doing what I asked it to. (I don't even understand why it listens to me instead of doing whatever it wants.)
+Also, the distance preservation for yoking in fastgap was all Claude. It gave me the answer before I could even think about it lol! Saved me a lot of trouble.
+And I would have never been able to implement all of this in C++ in a few hours. As an ICPC world finalist, I know a thing or two about that.
+
+If someone like me (with AI) can do this, imagine what thousands of other researchers in the same boat can produce.
+In a few years, I suspect the prestige that props up these institutions may end up disappearing entirely.
+The very idea of prestige is cooked.
+
+<p align="center"><img src="/assets/memes/cooker.png"></p>
+
+Let's see, what else happened since my last post?
+
+Magnus Carlsen being a crybaby? What else is new.
+
+Claimed [[Lean Proof](https://alpo.ge/remark.pdf)] of Riemann Hypothesis? Really?
+
+What did the self appointed comprehension police say? [[>Link](https://www.ahmath.org/statements)]. HAHAHAHAHAHA!
+
+Who is this Alpoge? Harvard valedictorian? Anthropic?
+Okay maybe prestige has some use in the near term.
+And these formal methods and languages like [[bend](https://github.com/bendlang/bend)] just might be our saviour.
+
+<p align="center"><img src="/assets/memes/kitty.png"></p>
+How my co-authors will look at me when they find out I almost snuck in the phrase "blue balls" in our latest pre-print.
+<p/>
+
